@@ -8,4 +8,3 @@ Also powered by the powerful React Hooks.
 
 Visit the project website [here](http://fiyifoluwa.github.io/picdistro).
 
-Photo Gallery with an upload function.
