@@ -6,5 +6,5 @@ All transitions and smooth motions are powered by Framer Motion.
 Firebase is the database provider where we employ firestore for storage and realtime updates in this application.
 Also powered by the powerful React Hooks.
 
-Visit the project website [here](http://fiyifoluwa.github.io/picdistro).
+Visit the project website [here](https://picdistro.vercel.app/).
 
